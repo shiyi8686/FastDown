@@ -54,12 +54,14 @@
 
 **系统要求**：Windows 10 / 11（64 位）。无需管理员权限即可运行；装到 `Program Files` 时才需要管理员。
 
-## 🎬 视频教程（6 分钟）
+## 🎬 视频教程（6 分钟，在线看）
 
-点下面的链接直接下载观看（mp4，259 MB）：
+[![点封面即可在线观看 →](https://i2.hdslb.com/bfs/archive/fed70cd3600d03e611ded26ae179c3d059a77041.jpg@1280w.jpg)](https://www.bilibili.com/video/BV16qn96uEDi)
 
-- 📹 [**下载中文教程视频** `FastDown_v6.1_Tutorial_zh.mp4`](https://github.com/shiyi8686/FastDown/releases/download/v6.1/FastDown_v6.1_Tutorial_zh.mp4)
-- 📝 字幕：[`FastDown_v6.1_Tutorial_zh.srt`](https://github.com/shiyi8686/FastDown/releases/download/v6.1/FastDown_v6.1_Tutorial_zh.srt)（中文）· [`FastDown_v6.1_Tutorial_en.srt`](https://github.com/shiyi8686/FastDown/releases/download/v6.1/FastDown_v6.1_Tutorial_en.srt)（English）
+▶ **点上方封面直接在线播放**（B 站，6 分钟，中文字幕）
+
+- 想离线看：下载 [`FastDown_v6.1_Tutorial_zh.mp4`](https://github.com/shiyi8686/FastDown/releases/download/v6.1/FastDown_v6.1_Tutorial_zh.mp4)（259 MB）
+- 字幕文件：[中文](https://github.com/shiyi8686/FastDown/releases/download/v6.1/FastDown_v6.1_Tutorial_zh.srt) · [English](https://github.com/shiyi8686/FastDown/releases/download/v6.1/FastDown_v6.1_Tutorial_en.srt)
 
 > 不想看视频也行，下面「怎么用」5 步就是全部核心操作，装完 3 分钟能上手。
 
@@ -87,19 +89,6 @@
 3. **本页资源面板**：点扩展图标，按类型勾选整页资源批量下载
 4. **磁力 / BT**：粘贴 `magnet:` 或点「🧲 打开种子」选本地 `.torrent`
 5. **批量**：B站合集 / 收藏夹 / 博主主页、YouTube 播放列表 / 频道、TikTok 主页，粘贴后弹列表勾选
-
-## 🔑 授权（3 步）
-
-首次启动会弹出「激活与授权」窗口，按窗口里的提示走完就行：
-
-1. 复制窗口左上角的**本机设备 ID**
-2. 扫码后按窗口内说明提交（邮件自动回执，无需人工等待）
-3. 把收到的激活码粘进输入框 → 点「🔑 激活」
-
-授权码与**本机绑定**，一次授权长期可用；后续版本升级不需要重新激活。
-换新电脑可在窗口内联系客服处理。
-
-> 小技巧：窗口里的「我的邀请码」发给朋友，双方各延长使用时间。
 
 ## ❓ 常见问题
 
