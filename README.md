@@ -11,7 +11,7 @@
 
 | 文件 | 说明 |
 |---|---|
-| `FastDown_v6.1_安装版_win64.zip` | 安装版（含安装向导 + 安装包 + 浏览器扩展 + 使用手册） |
+| `FastDown_v6.1_Setup_win64.zip` | 安装版（含安装向导 + 安装包 + 浏览器扩展 + 使用手册） |
 
 解压后双击 `FastDown_Setup.exe` 安装。**`FastDown` 文件夹必须和 `FastDown_Setup.exe` 放在一起**，安装程序要从里面复制文件。
 
@@ -55,7 +55,7 @@
 发布包内每个 Release 都附 `sha256`。核对（PowerShell）：
 
 ```powershell
-Get-FileHash .\FastDown_v6.1_安装版_win64.zip -Algorithm SHA256
+Get-FileHash .\FastDown_v6.1_Setup_win64.zip -Algorithm SHA256
 ```
 
 ## 常见问题
